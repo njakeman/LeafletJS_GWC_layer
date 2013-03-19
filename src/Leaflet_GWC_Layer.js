@@ -1,7 +1,6 @@
 /*
  Copyright (c) 2013, Neil Jakeman
- GWC Layer implements access 
- https://github.com/jacobtoye/Leaflet.draw
+ GWC Layer implements access to a pre rendered GWC tile cache.
  NB. URL to take the form:
   '{s}/path/to/cache/EPSG_900913_{z}/{dir_x}_{dir_y}/{x}_{y}.png';
  Options:
